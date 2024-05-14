@@ -1,0 +1,11 @@
+DICTIONARY
+
+Dictionary are used to store data values in key:value pairs.
+Therefore, a dictionary is a collection which is ordered, changeable and does not allow duplicates.
+They are written in curly brackets and have key and values.
+
+example:
+thisdict = {
+  'brand':'Ford',
+  'year':1964
+}
