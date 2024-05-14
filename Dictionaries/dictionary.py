@@ -21,6 +21,15 @@ newDict = dict(
 print(f"The newly created dictionary is : {newDict}")
 # Adding new key:value pair
 newDict['size']='A4'
+# Updating dictionary
+newDict.update(
+  {
+    'genre':'fictional',
+    'name':'Lucas Gray'
+  }
+)
+# Changing  value of a given key
+newDict['size']='A5'
 # Getting the value of the provided key
 print(f"Value of name is : {newDict.get('name')}")
 # Getting all the keys
