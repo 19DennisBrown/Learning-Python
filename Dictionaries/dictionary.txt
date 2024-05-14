@@ -9,3 +9,25 @@ thisdict = {
   'brand':'Ford',
   'year':1964
 }
+
+List{
+  ordered
+  changeable
+  duplicated
+}
+Tuple{
+  ordered
+  unchangeable
+  duplicated
+}
+set{
+  unordered
+  unchangeable
+  unindexed
+  no-duplicates
+}
+Dictionary{
+  ordered
+  changeable
+  no-duplicates
+}
