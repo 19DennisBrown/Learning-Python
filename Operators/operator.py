@@ -1,5 +1,4 @@
-"""""
-
+"""
 Arithmetic operators
 Assignment operators
 Comparison operators
