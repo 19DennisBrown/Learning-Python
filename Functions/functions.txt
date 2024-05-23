@@ -1,0 +1,18 @@
+
+Function is  a block of code which only runs when it is called.
+parameters can be passed into the Function
+
+function can return data as result.
+
+functions are created using 'def' keyword
+
+To cal a function, use the function name followed by paranthesis '()'
+
+___Arguments
+Specified info after func name. Sent when func is called
+parameters == listed in fuction definition
+
+____Arbitrary ___Arguments(*args)
+Passed when the number of arguments is not known
+____Arbitrary keyword Arguments(**kwargs)
+Passed when the number of keyword arguments is not known
