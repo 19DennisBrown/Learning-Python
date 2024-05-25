@@ -1,0 +1,16 @@
+
+Array is a special variable, which can hold more than one value at a time.
+
+ARRAY METHODS
+
+1. append()
+2. clear()  /removes all elements
+3. copy()   /returns a copy of the list
+4. count('val')    /returns no of elements with specified val
+5. extend()
+6. index('val')
+7. insert(4)
+8. pop()
+9. remove('val')  / removes item specified
+10. reverse()
+11. sort()
