@@ -1,0 +1,11 @@
+
+//INHERITANCE
+
+
+Makes it possible to define a class that inherits all the methods and properties from other class.
+
+//Parent class
+Is the class being inherited from, also called 'base class'
+//Child class
+Is the class that inherites from parent class, also called 'derived class'
+

@@ -1,0 +1,27 @@
+
+python is an OOP language
+therefore, everything is an object, with its properties and methods.
+A class is like an object constructor.
+
+??Class example:
+class newClass:
+  c=5
+  
+??Object example:
+obj = newClass()
+print(obj.c)
+  
+
+//The __init__() func
+Used to assign values to object properties or other operations that are necessary to do when object is created.
+
+//The __str__() func
+Controls what should be returned when the class object is represented as a string.
+
+// Self parameter
+Is a reference to the current instance of the class and is used to access variables that belongs to the class.
+
+//Deleting objects .
+del obj
+//Deleting objects parameter.
+del obj.c
