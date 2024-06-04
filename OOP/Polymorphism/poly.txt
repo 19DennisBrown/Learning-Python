@@ -1,0 +1,8 @@
+
+
+
+//POLYMORPHISM
+
+Refers to the methods/functions/operators with the same name that can be executed on many objects or classes.
+exmple is the 'len()' function.
+
